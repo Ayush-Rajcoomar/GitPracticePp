@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|c:\\users\\admin\\source\\repos\\programmingpoep1\\models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:models\\issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\\u2014pngtree\u2014fluid abstract background with purple_15721566.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\\u2014pngtree\u2014fluid abstract background with purple_15721566.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\\u2014pngtree\u2014purple background planet smart tech_979623.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\\u2014pngtree\u2014purple background planet smart tech_979623.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\logo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:logo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\settings.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\servicerequeststatus.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\servicerequeststatus.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\reportissues.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\reportissues.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\loginregistrationpage.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\loginregistrationpage.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\localeventsannouncements.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\localeventsannouncements.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\controls\\menuitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:controls\\menuitem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\pages\\reportissues.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3046A9B-3166-4C71-8845-A664105D1D5E}|WPFModernVerticalMenu.csproj|solutionrelative:pages\\reportissues.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u2014Pngtree\u2014fluid abstract background with purple_15721566.jpg",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\\u2014Pngtree\u2014fluid abstract background with purple_15721566.jpg",
+              "RelativeDocumentMoniker": "Pages\\\u2014Pngtree\u2014fluid abstract background with purple_15721566.jpg",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\\u2014Pngtree\u2014fluid abstract background with purple_15721566.jpg",
+              "RelativeToolTip": "Pages\\\u2014Pngtree\u2014fluid abstract background with purple_15721566.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-19T02:31:41.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logo.png",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Logo.png",
+              "RelativeDocumentMoniker": "Logo.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Logo.png",
+              "RelativeToolTip": "Logo.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-19T01:44:07.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Settings.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Settings.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Settings.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Settings.xaml.cs",
+              "RelativeToolTip": "Pages\\Settings.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:39:35.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pages\\Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Login.xaml.cs",
+              "RelativeToolTip": "Pages\\Login.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvxoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:38:47.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Login.xaml",
+              "RelativeDocumentMoniker": "Pages\\Login.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Login.xaml",
+              "RelativeToolTip": "Pages\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T20:38:44.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Home.xaml",
+              "RelativeDocumentMoniker": "Pages\\Home.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Home.xaml",
+              "RelativeToolTip": "Pages\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T22:48:49.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Issue.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Models\\Issue.cs",
+              "RelativeDocumentMoniker": "Models\\Issue.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Models\\Issue.cs",
+              "RelativeToolTip": "Models\\Issue.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:38:12.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u2014Pngtree\u2014purple background planet smart tech_979623.jpg",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\\u2014Pngtree\u2014purple background planet smart tech_979623.jpg",
+              "RelativeDocumentMoniker": "Pages\\\u2014Pngtree\u2014purple background planet smart tech_979623.jpg",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\\u2014Pngtree\u2014purple background planet smart tech_979623.jpg",
+              "RelativeToolTip": "Pages\\\u2014Pngtree\u2014purple background planet smart tech_979623.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-19T02:40:33.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Home.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Home.xaml.cs",
+              "RelativeToolTip": "Pages\\Home.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:38:38.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T22:49:09.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "MainWindow.xaml.cs*",
+              "ViewState": "AgIAAOgAAAAAAAAAAIA4wP8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:49:08.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginRegistrationPage.png",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\LoginRegistrationPage.png",
+              "RelativeDocumentMoniker": "Pages\\LoginRegistrationPage.png",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\LoginRegistrationPage.png",
+              "RelativeToolTip": "Pages\\LoginRegistrationPage.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-09-18T20:39:00.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Register.xaml",
+              "RelativeDocumentMoniker": "Pages\\Register.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Register.xaml",
+              "RelativeToolTip": "Pages\\Register.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T20:39:06.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Register.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Register.xaml.cs",
+              "RelativeToolTip": "Pages\\Register.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:39:13.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceRequestStatus.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\ServiceRequestStatus.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ServiceRequestStatus.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\ServiceRequestStatus.xaml.cs",
+              "RelativeToolTip": "Pages\\ServiceRequestStatus.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:39:30.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MenuItem.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Controls\\MenuItem.xaml",
+              "RelativeDocumentMoniker": "Controls\\MenuItem.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Controls\\MenuItem.xaml",
+              "RelativeToolTip": "Controls\\MenuItem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T20:38:24.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportIssues.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\ReportIssues.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ReportIssues.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\ReportIssues.xaml.cs",
+              "RelativeToolTip": "Pages\\ReportIssues.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:30:21.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LocalEventsAnnouncements.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml",
+              "RelativeDocumentMoniker": "Pages\\LocalEventsAnnouncements.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\LocalEventsAnnouncements.xaml",
+              "RelativeToolTip": "Pages\\LocalEventsAnnouncements.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-18T20:38:40.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Dashboard.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Dashboard.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\Dashboard.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Dashboard.xaml.cs",
+              "RelativeToolTip": "Pages\\Dashboard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T22:26:30.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Dashboard.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Dashboard.xaml",
+              "RelativeDocumentMoniker": "Pages\\Dashboard.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\Dashboard.xaml",
+              "RelativeToolTip": "Pages\\Dashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-16T22:26:25.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ReportIssues.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\ReportIssues.xaml",
+              "RelativeDocumentMoniker": "Pages\\ReportIssues.xaml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\ProgrammingPOEp1\\Pages\\ReportIssues.xaml",
+              "RelativeToolTip": "Pages\\ReportIssues.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T08:29:28.119Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
